@@ -1,0 +1,3 @@
+[submodule "sale_product_document"]
+	path = sale_product_document
+	url = git@github.com:MobilizeDevTeam/sale_product_document.git
